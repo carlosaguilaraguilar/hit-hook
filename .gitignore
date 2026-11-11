@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+mi_hit_hook_memoria.txt
+.DS_Store
